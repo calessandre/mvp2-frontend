@@ -1,0 +1,55 @@
+{
+    "plantas": [
+        {
+            "id": 1,
+            "nome": "Abacate",
+            "nomes_populares": "Abacado, Abacateiro, Loiro-abacate, Louro-abacate, Pêra-abacate",
+			"nome_cientifico": "Persea americana",
+			"familia": "Lauraceae",
+			"categorias": "Árvores, Árvores Frutíferas",
+			"clima": "Equatorial, Subtropical, Tropical",
+			"origem": "América Central, América do Norte, México",
+			"altura": "acima de 12m",
+            "luminosidade": "Sol pleno",
+            "preco": 16.99,
+			"descricao": "O abacate é o fruto do abacateiro, árvore frutífera de grande porte, que pode alcançar cerca 20 metros de altura. Seu tronco é pouco reto, atingindo 1 metro de diâmetro aos 30 anos. A casca do caule e ramos é acinzentada, espessa, suberosa e recortada. Suas folhas são lustrosas, coriáceas, elípticas a lanceoladas e de cor verde-escura, com a página superior glabra e a inferior pubescente. As flores são pequenas, hermafroditas, de cor verde clara e muito numerosas, organizadas em inflorescências terminais do tipo panícula. O fruto é uma drupa piriforme ou ovóide, de casca de cor verde a marrom, e polpa cremosa, adocicada, de cor verde-oliva a creme, com 5 a 30% de óleo. Os frutos são bastante grandes, chegando a pesar até um quilo, e contêm uma única semente, esférica e grande.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/persea_americana.jpg"
+            ]
+        },
+        {
+          "id": 2,
+            "nome": "Abacaxi-ornamental",
+            "nomes_populares": "Abacaxi-vermelho, Ananás-ornamental, Ananás-vermelho, Ananás-de-cerca",
+			"nome_cientifico": "Ananas bracteatus",
+			"familia": "Bromeliaceae",
+			"categorias": "Arbustos, Arbustos Tropicais, Bromélias",
+			"clima": "Equatorial, Subtropical, Tropical",
+			"origem": "América do Sul, Brasil",
+			"altura": "0,6m a 0,9m",
+            "luminosidade": "Meia Sombra, Sol Pleno",
+            "preco": 21.98,
+			"descricao": "Bromélia muito rústica, de folhagem e frutos ornamentais. As folhas são verdes, alongadas e com espinhos nas bordas e os frutos são avermelhados. No entanto há algumas variedades, com folhagem de cores e tonalidades diferentes, a mais conhecida é a variegada de branco-creme, a “Striatus”. Ocorre ainda uma variedade anã, com frutos bem pequenos. Quando cultivado sob o sol adquire tonalidades rosadas, enquanto que na sombra prevalecem os tons verdes nas folhas e frutos. Dada a sua agressividade, o abacaxi-ornamental é muito utilizado para delimitar áreas ou canteiros que não devem ser invadidos por pessoas ou animais. Pode ser plantado isolada, em composições, em grupos ou como bordadura.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/ananas_bracteatus.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Alamanda",
+            "nomes_populares": "Alamanda-amarela, Carolina, Dedal-de-dama",
+			"nome_cientifico": "Allamanda cathartica",
+			"familia": "Apocynaceae",
+			"categorias": "Trepadeira",
+			"clima": "Equatorial, Subtropical, Tropical",
+			"origem": "América do Sul, Brasil",
+			"altura": "3m a 3,6m",
+            "luminosidade": "Sol pleno",
+            "preco": 25.99,
+			"descricao": "Trepadeira bastante conhecida e utilizada no paisagismo no Brasil. A alamanda apresenta vistosas flores amarelo-ouro, praticamente o ano inteiro. A folhagem também é bastante ornamental, composta de folhas verdes e brilhantes. É considerada planta tóxica e por este motivo deve-se mantê-la longe do alcance de crianças pequenas e filhotes de cães. Deve ser cultivada a pleno sol, em solo fértil e com regas regulares. É perfeita para cobrir pérgolas, muros e caramanchões, mas deve ser tutorada inicialmente. Devido ao peso da ramagem vigorosa, deve-se evitar seu uso em treliças e cercas mais frágeis. Seu crescimento é moderado. Adapta-se a todos os estados brasileiros, mas prefere o calor. Multiplica-se por sementes e por estaquia.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/allamanda_cathartica.jpg"
+            ]
+        }
+    ]
+}

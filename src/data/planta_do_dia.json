@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "nome": "Alamanda",
+    "nomes_populares": "Alamanda-amarela, Carolina, Dedal-de-dama",
+    "nome_cientifico": "Allamanda cathartica",
+    "familia": "Apocynaceae",
+    "categorias": "Trepadeira",
+    "clima": "Equatorial, Subtropical, Tropical",
+    "origem": "América do Sul, Brasil",
+    "altura": "3m a 3,6m",
+    "luminosidade": "Sol pleno",
+    "preco": 25.99,
+    "descricao": "Trepadeira bastante conhecida e utilizada no paisagismo no Brasil. A alamanda apresenta vistosas flores amarelo-ouro, praticamente o ano inteiro. A folhagem também é bastante ornamental, composta de folhas verdes e brilhantes. É considerada planta tóxica e por este motivo deve-se mantê-la longe do alcance de crianças pequenas e filhotes de cães. Deve ser cultivada a pleno sol, em solo fértil e com regas regulares. É perfeita para cobrir pérgolas, muros e caramanchões, mas deve ser tutorada inicialmente. Devido ao peso da ramagem vigorosa, deve-se evitar seu uso em treliças e cercas mais frágeis. Seu crescimento é moderado. Adapta-se a todos os estados brasileiros, mas prefere o calor. Multiplica-se por sementes e por estaquia.",
+    "imagem": [
+        "https://www.jardineiro.net/wp-content/uploads/2011/05/allamanda_cathartica.jpg"
+    ]
+}
