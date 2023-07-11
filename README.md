@@ -4,7 +4,7 @@ Aluno: Carlos Alessandre Assis da Cunha
 
 ## Como executar
 
-Será necessário ter o [Nodejs, ou o npm,](https://nodejs.org/en/download/) instalado. 
+Será necessário ter instalado o Nodejs ou o npm. 
 
 Após clonar o repositório, vá para o diretório raiz do projeto pelo terminal e execute o comando abaixo:
 
