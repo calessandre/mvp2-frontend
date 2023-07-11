@@ -19,7 +19,6 @@ export default function Plantas() {
     <>
     <BarraSuperior />
 
-
     <Grid sx={{  width: 1366 }} container>
     <Grid item xs>
         <Item>         

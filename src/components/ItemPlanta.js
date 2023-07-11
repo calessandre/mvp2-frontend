@@ -47,83 +47,83 @@ export default function ItemPlanta(props) {
   
   return (
 
-     <>
+    <>
 
-  <div>
-      <Dialog open={open} onClose={handleClose}>
-        <DialogTitle>Compartilhar</DialogTitle>
-        <DialogContent>
-          <DialogContentText>
-            Informe o e-mail abaixo para compartilhar a planta:
-          </DialogContentText>
-          <TextField
-            autoFocus
-            margin="dense"
-            id="name"
-            label="Email"
-            type="email"
-            fullWidth
-            variant="standard"
-          />
-        </DialogContent>
-        <DialogActions>
-          <Button onClick={handleClose}>Cancelar</Button>
-          <Button onClick={handleClose}>OK</Button>
-        </DialogActions>
-      </Dialog>
-    </div>
     <div>
-      <Card sx={{ maxWidth: 260, maxHeight:420 }}>
-        <CardHeader
-          avatar={
-            <Avatar sx={{ bgcolor: amber[700] }} aria-label="planta">
-              {inicialPlanta}
-            </Avatar>
-          }
+        <Dialog open={open} onClose={handleClose}>
+          <DialogTitle>Compartilhar</DialogTitle>
+          <DialogContent>
+            <DialogContentText>
+              Informe o e-mail abaixo para compartilhar a planta:
+            </DialogContentText>
+            <TextField
+              autoFocus
+              margin="dense"
+              id="name"
+              label="Email"
+              type="email"
+              fullWidth
+              variant="standard"
+            />
+          </DialogContent>
+          <DialogActions>
+            <Button onClick={handleClose}>Cancelar</Button>
+            <Button onClick={handleClose}>OK</Button>
+          </DialogActions>
+        </Dialog>
+      </div>
+      <div>
+        <Card sx={{ maxWidth: 260, height:420 }}>
+          <CardHeader
+            avatar={
+              <Avatar sx={{ bgcolor: amber[700] }} aria-label="planta">
+                {inicialPlanta}
+              </Avatar>
+            }
 
-          title={planta.nome}
-          subheader={planta.nome_cientifico}
-        />
-        <CardMedia
-          component="img"
-          height="194"
-          image={planta.imagem}
-          alt="Planta"
-        />
+            title={planta.nome}
+            subheader={planta.nome_cientifico}
+          />
+          <CardMedia
+            component="img"
+            height="194"
+            image={planta.imagem}
+            alt="Planta"
+          />
 
-        <CardActions disableSpacing>
-          
-          <Link to={`/plantas/${planta.id}`} state={{ p: planta }}>
-            <Button 
-              sx={{ color: amber[700], borderColor: amber[700], display: escondeBotao&&'none'}} 
-              size="small" 
-              variant="outlined">
-            Detalhes
-          </Button></Link>
-          
-          <IconButton aria-label="add to favorites" onClick={Favoritar} color={favorito ? 'warning' : 'disabled'}>
-            <FavoriteIcon />
-          </IconButton>
-          <IconButton aria-label="share" onClick={handleClickOpen}>
-            <ShareIcon />
-          </IconButton>
-          
+          <CardActions disableSpacing>
+            
+            <Link to={`/plantas/${planta.id}`} state={{ p: planta }}>
+              <Button 
+                sx={{ color: amber[700], borderColor: amber[700], display: escondeBotao&&'none'}} 
+                size="small" 
+                variant="outlined">
+              Detalhes
+            </Button></Link>
+            
+            <IconButton aria-label="add to favorites" onClick={Favoritar} color={favorito ? 'warning' : 'disabled'}>
+              <FavoriteIcon />
+            </IconButton>
+            <IconButton aria-label="share" onClick={handleClickOpen}>
+              <ShareIcon />
+            </IconButton>
+            
 
-        </CardActions>
+          </CardActions>
 
-        <CardContent>
-          <Typography variant="body2" color="text.secondary">
-            {planta.nomes_populares}
-          </Typography>
+          <CardContent>
+            <Typography variant="body2" color="text.secondary">
+              {planta.nomes_populares}
+            </Typography>
 
-        </CardContent>
+          </CardContent>
 
- 
-      </Card>
+  
+        </Card>
 
       </div>        
-      </>   
-    );
-  }
+    </>   
+  );
+}
 
           

@@ -11,15 +11,14 @@
 			"origem": "América Central, América do Norte, México",
 			"altura": "acima de 12m",
             "luminosidade": "Sol pleno",
-            "preco": 16.99,
-			"descricao": "O abacate é o fruto do abacateiro, árvore frutífera de grande porte, que pode alcançar cerca 20 metros de altura. Seu tronco é pouco reto, atingindo 1 metro de diâmetro aos 30 anos. A casca do caule e ramos é acinzentada, espessa, suberosa e recortada. Suas folhas são lustrosas, coriáceas, elípticas a lanceoladas e de cor verde-escura, com a página superior glabra e a inferior pubescente. As flores são pequenas, hermafroditas, de cor verde clara e muito numerosas, organizadas em inflorescências terminais do tipo panícula. O fruto é uma drupa piriforme ou ovóide, de casca de cor verde a marrom, e polpa cremosa, adocicada, de cor verde-oliva a creme, com 5 a 30% de óleo. Os frutos são bastante grandes, chegando a pesar até um quilo, e contêm uma única semente, esférica e grande.",
+            "descricao": "O abacate é o fruto do abacateiro, árvore frutífera de grande porte, que pode alcançar cerca 20 metros de altura. Seu tronco é pouco reto, atingindo 1 metro de diâmetro aos 30 anos. A casca do caule e ramos é acinzentada, espessa, suberosa e recortada. Suas folhas são lustrosas, coriáceas, elípticas a lanceoladas e de cor verde-escura, com a página superior glabra e a inferior pubescente. As flores são pequenas, hermafroditas, de cor verde clara e muito numerosas, organizadas em inflorescências terminais do tipo panícula. O fruto é uma drupa piriforme ou ovóide, de casca de cor verde a marrom, e polpa cremosa, adocicada, de cor verde-oliva a creme, com 5 a 30% de óleo. Os frutos são bastante grandes, chegando a pesar até um quilo, e contêm uma única semente, esférica e grande.",
             "imagem": [
                 "https://www.jardineiro.net/wp-content/uploads/2011/05/persea_americana.jpg"
             ]
         },
         {
           "id": 2,
-            "nome": "Abacaxi-ornamental",
+            "nome": "Abacaxi ornamental",
             "nomes_populares": "Abacaxi-vermelho, Ananás-ornamental, Ananás-vermelho, Ananás-de-cerca",
 			"nome_cientifico": "Ananas bracteatus",
 			"familia": "Bromeliaceae",
@@ -28,8 +27,7 @@
 			"origem": "América do Sul, Brasil",
 			"altura": "0,6m a 0,9m",
             "luminosidade": "Meia Sombra, Sol Pleno",
-            "preco": 21.98,
-			"descricao": "Bromélia muito rústica, de folhagem e frutos ornamentais. As folhas são verdes, alongadas e com espinhos nas bordas e os frutos são avermelhados. No entanto há algumas variedades, com folhagem de cores e tonalidades diferentes, a mais conhecida é a variegada de branco-creme, a “Striatus”. Ocorre ainda uma variedade anã, com frutos bem pequenos. Quando cultivado sob o sol adquire tonalidades rosadas, enquanto que na sombra prevalecem os tons verdes nas folhas e frutos. Dada a sua agressividade, o abacaxi-ornamental é muito utilizado para delimitar áreas ou canteiros que não devem ser invadidos por pessoas ou animais. Pode ser plantado isolada, em composições, em grupos ou como bordadura.",
+  			"descricao": "Bromélia muito rústica, de folhagem e frutos ornamentais. As folhas são verdes, alongadas e com espinhos nas bordas e os frutos são avermelhados. No entanto há algumas variedades, com folhagem de cores e tonalidades diferentes, a mais conhecida é a variegada de branco-creme, a “Striatus”. Ocorre ainda uma variedade anã, com frutos bem pequenos. Quando cultivado sob o sol adquire tonalidades rosadas, enquanto que na sombra prevalecem os tons verdes nas folhas e frutos. Dada a sua agressividade, o abacaxi-ornamental é muito utilizado para delimitar áreas ou canteiros que não devem ser invadidos por pessoas ou animais. Pode ser plantado isolada, em composições, em grupos ou como bordadura.",
             "imagem": [
                 "https://www.jardineiro.net/wp-content/uploads/2011/05/ananas_bracteatus.jpg"
             ]
@@ -45,10 +43,73 @@
 			"origem": "América do Sul, Brasil",
 			"altura": "3m a 3,6m",
             "luminosidade": "Sol pleno",
-            "preco": 25.99,
-			"descricao": "Trepadeira bastante conhecida e utilizada no paisagismo no Brasil. A alamanda apresenta vistosas flores amarelo-ouro, praticamente o ano inteiro. A folhagem também é bastante ornamental, composta de folhas verdes e brilhantes. É considerada planta tóxica e por este motivo deve-se mantê-la longe do alcance de crianças pequenas e filhotes de cães. Deve ser cultivada a pleno sol, em solo fértil e com regas regulares. É perfeita para cobrir pérgolas, muros e caramanchões, mas deve ser tutorada inicialmente. Devido ao peso da ramagem vigorosa, deve-se evitar seu uso em treliças e cercas mais frágeis. Seu crescimento é moderado. Adapta-se a todos os estados brasileiros, mas prefere o calor. Multiplica-se por sementes e por estaquia.",
+      		"descricao": "Trepadeira bastante conhecida e utilizada no paisagismo no Brasil. A alamanda apresenta vistosas flores amarelo-ouro, praticamente o ano inteiro. A folhagem também é bastante ornamental, composta de folhas verdes e brilhantes. É considerada planta tóxica e por este motivo deve-se mantê-la longe do alcance de crianças pequenas e filhotes de cães. Deve ser cultivada a pleno sol, em solo fértil e com regas regulares. É perfeita para cobrir pérgolas, muros e caramanchões, mas deve ser tutorada inicialmente. Devido ao peso da ramagem vigorosa, deve-se evitar seu uso em treliças e cercas mais frágeis. Seu crescimento é moderado. Adapta-se a todos os estados brasileiros, mas prefere o calor. Multiplica-se por sementes e por estaquia.",
             "imagem": [
                 "https://www.jardineiro.net/wp-content/uploads/2011/05/allamanda_cathartica.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Alocásia tartaruga",
+            "nomes_populares": "Alocasia-prata, Planta-de-prata, Casco-de-tartaruga, Alocasia-jóia, Orelha-de-elefante",
+            "nome_cientifico": "Alocasia nebula",
+            "familia": "Araceae",
+            "categorias": "Folhagens, Forrações à Meia Sombra, Gramados e Forrações",
+            "clima": "Equatorial, Tropical",
+            "origem": "Ásia, Bornéu, Indonésia",
+            "altura": "0,4m a 0,9m",
+            "luminosidade": "Luz Difusa, Luz Filtrada",
+             "descricao": "A alocásia-casco-de-tartaruga é uma espécie herbácea, rizomatosa e perene de folhagem ornamental. Originária de matas tropicais de Bornéu, na Indonésia, ela ajuda a conferir essa mesma ambientação tropical na decoração e no paisagismo. Suas folhas crescem de 20 a 45 cm, têm pecíolos longos, cor verde-acinzentada, com formato cordiforme a sagitada, listras verde-escuras que destacam suas nervuras, além de serem carnosas e cerosas, características que dão à espécie uma textura única. Dependendo das condições de cultivo, a planta pode ainda adquirir uma tonalidade prateada com reflexos arroxeados. As cultivares mais comuns entre os colecionadores são a ‘Imperialis’, ‘Balun’ e ‘Elaine’. Sua inflorescência é do tipo espádice com espata, e têm pouca importância ornamental. Elas crescem em hastes curtas, ficando escondidas pelas folhas.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2021/11/Alocasia_nebula.jpg"
+            ]
+        },        
+        {
+            "id": 5,
+            "nome": "Copo de leite",
+            "nomes_populares": "Cala-branca, Jarra, Jarro, Lírio-do-nilo",
+			"nome_cientifico": "Zantedeschia aethiopica",
+			"familia": "Araceae",
+			"categorias": "Flores Perenes",
+			"clima": "Equatorial, Subtropical, Tropical",
+			"origem": "África",
+			"altura": "0,6m a 0,9m",
+            "luminosidade": "Meia Sombra, Sol pleno",
+        	"descricao": "Conhecido de todos, o copo-de-leite é excelente como flor-corte. Sua folhagem é verde brilhante e muito ornamental. As flores são firmes e duráveis, grandes e de coloração branca. A seleção e o cruzamento com outras espécies de Zantedeschia, têm obtido copos-de-leite de outras cores além da branca, como o amarelo, o vermelho, o rosa, o laranja e o roxo. Deve ser cultivado em grupos para melhor valorização de seu efeito paisagístico, principalmente em locais úmidos, como margens de lagos e espelhos d’água. O plantio em vasos também é bastante adequado.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/zantedeschia_aethiopica.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "nome": "Orquídea bambu",
+            "nomes_populares": "Arundina",
+			"nome_cientifico": "Arundina graminifolia",
+			"familia": "Orchidaceae",
+			"categorias": "Flores Perenes, Orquídeas",
+			"clima": "Equatorial, Subtropical, Tropical",
+			"origem": "Ásia, Birmânia",
+			"altura": "0,9m a 2,4m",
+            "luminosidade": "Meia Sombra, Sol pleno",
+        	"descricao": "Orquídea terrestre bastante rústica, a arundina, como também é chamada, se encaixa perfeitamente no estilo dos jardins tropicais e contemporâneos. Apresenta caule juncoso, formando grandes massas que crescem até uma altura de 2 m. As folhas são finas, estreitas, compridas e lanceoladas, com um comprimento de 9 a 19 cm e largura de 0,8 a 1,5 cm. As flores se formam no verão e apresentam uma tonalidade lilás rosada com o labelo púrpura. A orquídea-bambú pode ser utilizada como bordadura, renques, ou isolada no jardim, assim como em vasos e jardineiras, sozinha ou compondo com outras plantas.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/arundina_bambusifolia.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Prímula",
+            "nomes_populares": "Barral, Copinhos-de-leite, Flor-da-doutrina, Prímula-violeta, Rosas-de-páscoa, Violeta-vermelha",
+			"nome_cientifico": "Primula x polyantha",
+			"familia": "Primulaceae",
+			"categorias": "Flores Anuais, Flores Perenes",
+			"clima": "Mediterrâneo, Subtropical, Temperado, Tropical",
+			"origem": "Europa",
+			"altura": "0,1m a 0,3m",
+            "luminosidade": "Luz Difusa, Meia Sombra",
+         	"descricao": "A prímula é uma planta herbácea e delicada, que chama a atenção por suas flores de cores vibrantes. O nome primula é o diminutivo feminino de primus, do latim, que significa “primeiro” – uma alusão à floração da planta, que se dá no fim do inverno, antes da maioria das espécies. Ela é originária do cruzamento entre as espécies Primula vulgaris, P. acaulis e P. elatior. Suas folhas são basais, obovadas, rugosas, com margens dentadas e nervuras bem marcadas. As flores se formam no final do inverno e primavera, em uma inflorescência central, curto pedunculada. Elas são levemente perfumadas, e podem se simples (pentâmeras) ou dobradas. Ocorrem de diversas cores, desde o branco, amarelo, laranja, vermelho, vinho, roxo, violeta, etc e, na maioria das cultivares com o centro da flor amarelo. Ocorrem ainda flores de cores em degradeé e mesclas.",
+            "imagem": [
+                "https://www.jardineiro.net/wp-content/uploads/2011/05/primula_x_polyantha.jpg"
             ]
         }
     ]

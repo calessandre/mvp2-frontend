@@ -35,7 +35,7 @@ export default function PlantaDetails() {
           <Grid sx={{ width: 1200 }} container>
             <Grid item xs>
              <Item>
-               <Breadcrumbs aria-label="breadcrumb">
+               <Breadcrumbs aria-label="breadcrumb" sx={{ p:'10px' }}>
                 <Link underline="hover" color="inherit" to={`/`}> Home </Link>
                 <Link underline="hover" color="inherit" to={`/plantas`} >Resultado da busca </Link>
                 <Typography color="text.primary"> Detalhes </Typography>

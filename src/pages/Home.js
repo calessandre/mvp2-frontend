@@ -32,7 +32,7 @@ export default function Home() {
       </Grid>
       <Grid item xs>
         <Item>
-          <Grid sx={{ border: '0px solid black', width: 1200}} container  alignItems="flex-end">
+          <Grid sx={{ border: '0px solid black', width: 1200, height: 480}} container  alignItems="flex-end">
           
           <Grid item xs={8}>
         <Item>

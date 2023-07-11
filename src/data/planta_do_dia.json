@@ -1,17 +1,16 @@
 {
     "id": 1,
-    "nome": "Alamanda",
-    "nomes_populares": "Alamanda-amarela, Carolina, Dedal-de-dama",
-    "nome_cientifico": "Allamanda cathartica",
-    "familia": "Apocynaceae",
-    "categorias": "Trepadeira",
-    "clima": "Equatorial, Subtropical, Tropical",
-    "origem": "América do Sul, Brasil",
-    "altura": "3m a 3,6m",
-    "luminosidade": "Sol pleno",
-    "preco": 25.99,
-    "descricao": "Trepadeira bastante conhecida e utilizada no paisagismo no Brasil. A alamanda apresenta vistosas flores amarelo-ouro, praticamente o ano inteiro. A folhagem também é bastante ornamental, composta de folhas verdes e brilhantes. É considerada planta tóxica e por este motivo deve-se mantê-la longe do alcance de crianças pequenas e filhotes de cães. Deve ser cultivada a pleno sol, em solo fértil e com regas regulares. É perfeita para cobrir pérgolas, muros e caramanchões, mas deve ser tutorada inicialmente. Devido ao peso da ramagem vigorosa, deve-se evitar seu uso em treliças e cercas mais frágeis. Seu crescimento é moderado. Adapta-se a todos os estados brasileiros, mas prefere o calor. Multiplica-se por sementes e por estaquia.",
+    "nome": "Alocásia tartaruga",
+    "nomes_populares": "Alocasia-prata, Planta-de-prata, Casco-de-tartaruga, Alocasia-jóia, Orelha-de-elefante",
+    "nome_cientifico": "Alocasia nebula",
+    "familia": "Araceae",
+    "categorias": "Folhagens, Forrações à Meia Sombra, Gramados e Forrações",
+    "clima": "Equatorial, Tropical",
+    "origem": "Ásia, Bornéu, Indonésia",
+    "altura": "0,4m a 0,9m",
+    "luminosidade": "Luz Difusa, Luz Filtrada",
+     "descricao": "A alocásia-casco-de-tartaruga é uma espécie herbácea, rizomatosa e perene de folhagem ornamental. Originária de matas tropicais de Bornéu, na Indonésia, ela ajuda a conferir essa mesma ambientação tropical na decoração e no paisagismo. Suas folhas crescem de 20 a 45 cm, têm pecíolos longos, cor verde-acinzentada, com formato cordiforme a sagitada, listras verde-escuras que destacam suas nervuras, além de serem carnosas e cerosas, características que dão à espécie uma textura única. Dependendo das condições de cultivo, a planta pode ainda adquirir uma tonalidade prateada com reflexos arroxeados. As cultivares mais comuns entre os colecionadores são a ‘Imperialis’, ‘Balun’ e ‘Elaine’. Sua inflorescência é do tipo espádice com espata, e têm pouca importância ornamental. Elas crescem em hastes curtas, ficando escondidas pelas folhas.",
     "imagem": [
-        "https://www.jardineiro.net/wp-content/uploads/2011/05/allamanda_cathartica.jpg"
+        "https://www.jardineiro.net/wp-content/uploads/2021/11/Alocasia_nebula.jpg"
     ]
 }
