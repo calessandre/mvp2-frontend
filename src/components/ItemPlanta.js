@@ -125,5 +125,4 @@ export default function ItemPlanta(props) {
     </>   
   );
 }
-
           

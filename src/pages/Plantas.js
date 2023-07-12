@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react"
 import ItemPlanta from "../components/ItemPlanta"
-import plantas from '../data/plantas.json'
 import Breadcrumbs from '@mui/material/Breadcrumbs';
 import Typography from '@mui/material/Typography';
 import { Link } from "react-router-dom";
@@ -8,11 +7,16 @@ import Grid from '@mui/material/Grid';
 import Item from '@mui/material/Grid';
 import BarraSuperior from '../components/BarraSuperior';
 
+// Importação dos dados do json com as plantas que deverão ser exibidas nos cards
+import plantasJson from '../data/plantas.json'
+
+// Página que lista as plantas retornadas (em cards) pela busca simulada
+
 export default function Plantas() {
   const [listaPlantas, setListaPlantas] = useState ([])
 
   useEffect(() => {
-    setListaPlantas(plantas.plantas)
+    setListaPlantas(plantasJson.plantas)
   }, [])
 
   return (

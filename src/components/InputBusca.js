@@ -5,7 +5,6 @@ import InputBase from "@mui/material/InputBase";
 import IconButton from "@mui/material/IconButton";
 import { Link } from "react-router-dom";
 
-
 // Componente correspondente ao input de busca (texto + lupa) da barra superior que pode ser reaproveitado em outras páginas
 
 export default function InputBusca(props) {

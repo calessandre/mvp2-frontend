@@ -9,19 +9,19 @@ import Grid from '@mui/material/Grid';
 import Item from '@mui/material/Grid';
 import BarraSuperior from '../components/BarraSuperior';
 
+// Página de detalhes de uma planta selecionada
+
 export default function PlantaDetails() {
   // Hook que permite identificar o location, pathname, state do componente.
   // Nesse caso só precisamos do state que foi enviado pelo componente Item com as informações daquela planta selecionada.
-
   let { state } = useLocation();
   //console.log(useLocation())
 
   // De forma geral, dá acesso aos parâmetros passados no path quando chamamos o componente.
-  // Nesse caso temos acesso ao id que foi enviado como parâmetro no componente Item. 
+  // Nesse caso temos acesso ao id que foi enviado como parâmetro no componente ItemPlanta. 
   let { id } = useParams();
 
   return (
-
     <>
     <BarraSuperior />
 
